@@ -5,8 +5,8 @@ The source .archive files are in the file format used by iFontMaker, the iPad fo
 
 The fonts are released under the OFL, the SIL Open Font License.
 
-![The font's home page at 2ttf.com](samples/Handmade_US_state_maps_sample_3.PNG?raw=true "Title")
+![The font home page at 2ttf.com](samples/Handmade_US_state_maps_sample_3.PNG?raw=true "Font samples")
 
-![Outline Texas used in heading](samples/Handmade_US_state_maps_sample_1.PNG?raw=true "Title")
+![Outline Texas used in heading](samples/Handmade_US_state_maps_sample_1.PNG?raw=true "State with abbreviation to identify it")
 
-![Delaware, New Jersey, Tennessee, Arkansas, Alaska](samples/Handmade_US_state_maps_sample_2.PNG?raw=true "Title")
+![Delaware, New Jersey, Arkansas, Tennessee, Alaska](samples/Handmade_US_state_maps_sample_2.PNG?raw=true "States with no identifiers")
