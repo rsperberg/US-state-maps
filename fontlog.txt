@@ -1,0 +1,39 @@
+FONTLOG for the Handmade US states map font.
+
+This file provides detailed information on the Handmade US states map font software. This information should be distributed along with the Handmade US states map font and any derivative works.
+
+Basic Font Information
+
+Handmade US states map is an icon font family which replaces the Latin characters A-Y and a-z with outlines of the fifty US states and Puerto Rico;  0-3 with the continental US; Z, the asterisk, hyphen, comma and period each with a different-sized "star in a circle"; and many (51 to be precise) Latin accented letters with the same state outlines but removing the two-letter ISO (or zip) abbreviations.
+
+The first grouping uses mnemonics as much as possible (e.g., A => Arizona, a => Arkansas, C => California, c => Colorado, T => Texas, t => Tennessee) to facilitate keyboard entry for the new user.  The second grouping arranges the states in alphabetical order on keys that most users know how to access from their keyboard.  The font contains 112 glyphs.
+
+More specifically, this release uses the following Unicode ranges: U+002A - U+007A and U+00C0 - U+00FC.
+
+Documentation can be found at github.com/rsperberg/US-state-maps
+
+A related, solid version of these glyphs constitutes the Handmade US states map sold font.
+
+The two Handmade US states map fonts were created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com. You can download the outline font from 2ttf.com/EupyLHLegiK and the solid version from 2ttf.com/9kfb0TKOCeq
+
+To contribute to the project, visit the Github page.
+
+ChangeLog
+
+25 September - 11 October 2021 (Roger Sperberg) Handmade US states map version 1.0
+- created Github repository with ttf and source files, OFL and other information files and samples
+- initial release
+
+Acknowledgments
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Roger Sperberg
+E: glypheryfonts@gmail.com
+W: http://glyphery.com
+D: Designer - made original outline glyphs
+
+Glyphery is a font foundry created by Roger Sperberg, located on the web at glyphery.com.
+
+
+-----
